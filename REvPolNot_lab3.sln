@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "REvPolNot_lab3", "REvPolNot_lab3\REvPolNot_lab3.vcxproj", "{8BD70283-1913-4342-9E4D-65A887317852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD70283-1913-4342-9E4D-65A887317852}.Debug|x64.ActiveCfg = Debug|x64
+		{8BD70283-1913-4342-9E4D-65A887317852}.Debug|x64.Build.0 = Debug|x64
+		{8BD70283-1913-4342-9E4D-65A887317852}.Debug|x86.ActiveCfg = Debug|Win32
+		{8BD70283-1913-4342-9E4D-65A887317852}.Debug|x86.Build.0 = Debug|Win32
+		{8BD70283-1913-4342-9E4D-65A887317852}.Release|x64.ActiveCfg = Release|x64
+		{8BD70283-1913-4342-9E4D-65A887317852}.Release|x64.Build.0 = Release|x64
+		{8BD70283-1913-4342-9E4D-65A887317852}.Release|x86.ActiveCfg = Release|Win32
+		{8BD70283-1913-4342-9E4D-65A887317852}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C560F0BC-B0F5-42F6-842F-1E2D50570C45}
+	EndGlobalSection
+EndGlobal
